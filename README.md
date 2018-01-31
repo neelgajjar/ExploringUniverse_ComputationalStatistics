@@ -48,18 +48,23 @@ As we know from physics, velocity times time equals distance (`d = v*t`). If we 
 # Star Classification
 ## Animated Hertzsprung-Russell Diagram with 119,614 datapoints
 
-### About
-
-Hertzsprung–Russell diagrams made and animated using 119,614 data points in a star catalog.
-
-Stars twinkle for two reasons:
-
-* Aesthetics
-* Reduces overploting
-
 ## Graphic
 
 ![twinkle gif](https://user-images.githubusercontent.com/8587332/35610263-7bba74d2-0615-11e8-925a-0dc096f42c67.jpg)
+
+### About
+
+Animated Hertzsprung-Russell Diagram with 119,614 data points. The Hertzsprung–Russell diagram, abbreviated H–R diagram, is a scatter plot of stars showing the relationship between the stars' absolute magnitudes or luminosities versus their stellar classifications or effective temperatures. More simply, it plots each star on a graph measuring the star's brightness against its temperature (color). It does not map any locations of stars.  
+
+Depending on its initial mass, every star goes through specific evolutionary stages dictated by its internal structure and how it produces energy. Each of these stages corresponds to a change in the temperature and luminosity of the star, which can be seen to move to different regions on the HR diagram as it evolves. This reveals the true power of the HR diagram – astronomers can know a star’s internal structure and evolutionary stage simply by determining its position in the diagram.
+
+![hertzsprung-russel_stardata](https://user-images.githubusercontent.com/8587332/35651483-b517950a-0694-11e8-803f-6a51e2f2437c.png)  
+
+* 1.The main sequence stretching from the upper left (hot, luminous stars) to the bottom right (cool, faint stars) dominates the HR diagram. It is here that stars spend about 90% of their lives burning hydrogen into helium in their cores. Main sequence stars have a Morgan-Keenan luminosity class labelled V.  
+* 2.Red giant and supergiant stars (luminosity classes I through III) occupy the region above the main sequence. They have low surface temperatures and high luminosities which, according to the Stefan-Boltzmann law, means they also have large radii. Stars enter this evolutionary stage once they have exhausted the hydrogen fuel in their cores and have started to burn helium and other heavier elements. 
+* 3.White dwarf stars (luminosity class D) are the final evolutionary stage of low to intermediate mass stars, and are found in the bottom left of the HR diagram. These stars are very hot but have low luminosities due to their small size.
+
+
 
 ## Notes:
 
